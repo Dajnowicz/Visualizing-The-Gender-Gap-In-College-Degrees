@@ -1,1 +1,1 @@
-## All information are in the [Hacker News Posts.ipynb](https://github.com/Dajnowicz/HackerNewsAnalysis/blob/master/Hacker%20News%20Posts.ipynb) file.
+## All information are in the [Visualizing-The-Gender-Gap-In-College-Degrees](https://github.com/Dajnowicz/Visualizing-The-Gender-Gap-In-College-Degrees/blob/master/Visualizing%20The%20Gender%20Gap%20In%20College%20Degrees.ipynb) file.
